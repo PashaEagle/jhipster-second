@@ -1,0 +1,38 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "com.second"
+    },
+    "jhipsterVersion": "6.7.1",
+    "applicationType": "microservice",
+    "baseName": "jhipsterSecond",
+    "packageName": "com.second",
+    "packageFolder": "com/second",
+    "serverPort": "8081",
+    "authenticationType": "jwt",
+    "cacheProvider": "caffeine",
+    "enableHibernateCache": false,
+    "websocket": false,
+    "databaseType": "mongodb",
+    "devDatabaseType": "mongodb",
+    "prodDatabaseType": "mongodb",
+    "searchEngine": "elasticsearch",
+    "messageBroker": "kafka",
+    "serviceDiscoveryType": "eureka",
+    "buildTool": "maven",
+    "enableSwaggerCodegen": false,
+    "jwtSecretKey": "NTYwNWJlZGQ2M2Y0YzhmODRhMzEwNzhhOWE5ZGI4YjZhMDQ1NWQ0OGZmMDA3OTgwMWMyNzM4NWY1NzRmOTgzYWI0ODk5MWZlOGUyZGE0ZjRjZGI2YjE1Njk5OWM4MzQ4Njc5MjliNzE3MmFkYjA3MjZkYjk2MDNjYTY5NzA4ZTQ=",
+    "embeddableLaunchScript": false,
+    "creationTimestamp": 1583438107306,
+    "testFrameworks": [],
+    "jhiPrefix": "jhi",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": [],
+    "enableTranslation": false,
+    "clientPackageManager": "npm",
+    "blueprints": [],
+    "skipClient": true,
+    "skipUserManagement": true
+  }
+}
